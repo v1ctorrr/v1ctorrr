@@ -8,4 +8,4 @@ React Native is my go-to tool for building sleek interfaces while React Js, Pyth
 
 ✨ Beyond the screen, I'm an avid DIY enthusiast and a tech aficionado
 
-📧 Drop me a line at awokunlevictor18@gmail.com - Let's connect
+📧 Drop me a line at awokunlevictor18@gmail.com - Let's connect!
